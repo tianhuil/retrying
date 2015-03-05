@@ -1,3 +1,7 @@
+Mod
+=========================
+This version of retrying has been stripped of it's six dependency.  It is easily added as a submodule for Google App Engine.
+
 Retrying
 =========================
 .. image:: https://travis-ci.org/rholder/retrying.png?branch=master
@@ -8,6 +12,7 @@ Retrying
 
 .. image:: https://pypip.in/d/retrying/badge.png
     :target: https://pypi.python.org/pypi/retrying
+
 
 Retrying is an Apache 2.0 licensed general-purpose retrying library, written in
 Python, to simplify the task of adding retry behavior to just about anything.
