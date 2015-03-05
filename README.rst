@@ -1,6 +1,4 @@
-Mod
-=========================
-This version of retrying has been stripped of its six dependency.  It's easily added as a submodule to Google App Engine projects.
+**Mod:** This version of retrying has been stripped of its six dependency.  It's easily added as a submodule to Google App Engine projects.
 
 Retrying
 =========================
